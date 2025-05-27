@@ -421,5 +421,7 @@ params:
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
+  google_verification: "<meta name=\"google-site-verification\" content=\"3KUynDhlB2Sz76ddzyPFXoZU1nHcy1rzBDdXpSYs0hw\" />"
+
 
 
