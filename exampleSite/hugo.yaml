@@ -59,6 +59,7 @@ Menus:
     #   weight: 2
 
 params:
+  google_verification: "3KUynDhlB2Sz76ddzyPFXoZU1nHcy1rzBDdXpSYs0hw"
   title: "Hugo Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
@@ -421,8 +422,8 @@ params:
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
-  params:
-  google_verification: "3KUynDhlB2Sz76ddzyPFXoZU1nHcy1rzBDdXpSYs0hw"
+
+  
 
 
 
