@@ -2,3 +2,8 @@
     You can add further theme extensions or customizations here if they should
     appear in <head>.
 */}}
+{{ partial "head/extensions.html" . }}
+
+{{ with .Site.Params.google_verification }}
+  <meta name="google-site-verification" content="{{ . }}">
+{{ end }}
